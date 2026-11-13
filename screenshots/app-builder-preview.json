@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Dish",
+      "hasCanvas": true,
+      "bodyTextLen": 126,
+      "bodyTextHash": "7d75ede089d021595f588d7bf7ba5c6ea909744a716249ea908a26da4587c717",
+      "bodyTextPrefix": "Dish Petri dish for agents Watching Moss Agents 1 Moss 36 2 Pell",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Dish",
+      "hasCanvas": true,
+      "bodyTextLen": 104,
+      "bodyTextHash": "7fdc827e7ed2d0fe5159bfe92265ffd2e546b067d790cb4781144496e2a3ee62",
+      "bodyTextPrefix": "Dish Watching Moss Agents 1 Moss 35 2 Kip 35 3 Pell 35 4 Vex 35 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

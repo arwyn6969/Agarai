@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Dish",
+      "hasCanvas": true,
+      "bodyTextLen": 126,
+      "bodyTextHash": "660b407b7815cf95850690a4e3e002159992e50109ec3fe3c77f59061b13d966",
+      "bodyTextPrefix": "Dish Petri dish for agents Watching Pell Agents 1 Pell 35 2 Vex ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Dish",
+      "hasCanvas": true,
+      "bodyTextLen": 105,
+      "bodyTextHash": "33a46dd0e7d1c3025b8d8d889c0108fe62208799d84bc05cc1a02b57b3ef3d1c",
+      "bodyTextPrefix": "Dish Watching Brine Agents 1 Brine 35 2 Moss 34 3 Kip 34 4 Pell ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text replaced (similar length, page start changed)",
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
